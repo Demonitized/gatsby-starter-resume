@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-resume",
+  "name": "Demonitized",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
+    "url": "git+https://github.com/Demonitized/gatsby-starter-resume.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Justice Matthews",
+    "email": "jmatthews@luc.id"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-resume/issues"
+    "url": "https://github.com/Demonitized/gatsby-starter-resume/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-resume#readme"
+  "homepage": "https://github.com/Demonitized/gatsby-starter-resume#readme"
 }
